@@ -1,6 +1,6 @@
 
 print("coucou")
-# on va crer un conflit
+# conflit reglé
 
 ''' 
 attends pour être sur je refais une modif
